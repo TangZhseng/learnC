@@ -5,7 +5,7 @@ void swap(int *a,int *b){
 	*a=*b;
 	*b=t;
 }
-void bubble_sort(int a[],int ac){//Ã°ÅİÅÅĞò 
+void bubble_sort(int a[],int ac){//å†’æ³¡æ’åº
 	int i,j;
 	int sign;
 	for(i=0;i<ac;i++){
