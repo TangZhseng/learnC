@@ -7,7 +7,7 @@ int main() {
 	tr->data = 1;
 	Createbionode(tr);
 	l = CreateStack(10);
-	//Traveltree(tr);
+	Traveltree(tr);
 	InoderTravel(tr,l);
 	getchar();
 }
